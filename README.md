@@ -1,22 +1,18 @@
-# FASTAPI
-FastAPI boilerplate
+## HNG Stage 3 Task (Backend Track)
 
-## Setup
+This is the README for the Python FastAPI boilerplate [here](https://github.com/hngprojects/hng_boilerplate_python_fastapi_web), a task given to us by HNG for Stage 3 Backend Track. We were tasked to come up with an API and database schema design based on the instructions in this repository [here](https://github.com/hngprojects/hng_boilerplate_instructions)
 
-1. Create a virtual environment.
- ```sh
-    python3 -m venv .venv
- ```
-2. Activate virtual environment.
-```sh
-    source /path/to/venv/bin/activate`
-```
-3. Install project dependencies `pip install -r requirements.txt`
-4. Create a .env file by copying the .env.sample file
-`cp .env.sample .env`
+### API Design
+- API Design link here.
 
-5. Start server.
- ```sh
- python main.py
-```
+### Database Schema Design
+- DB Schema Design link here.
 
+### Contributors 
+- Modupe - https://github.com/Goketech
+- Christopher Adebiyi (Slack: @Chris) - https://github.com/chris-ade
+- Others can add their name, slack username and GitHub link here.
+
+### License 
+
+This project is licensed under the MIT License. See the LICENSE file for details.
