@@ -11,6 +11,7 @@ This is the README for the Python FastAPI boilerplate [here](https://github.com/
 ### Contributors 
 - Modupe Akanni (Slack: @Modupe Akanni) - https://github.com/Goketech
 - Christopher Adebiyi (Slack: @Chris) - https://github.com/chris-ade
+- Umar Faruk Yunusa (Slack: @Shadowstone) - https://github.com/umaryun
 - Others can add their name, slack username and GitHub link here.
 
 ### License 
